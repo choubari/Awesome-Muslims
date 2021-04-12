@@ -30,7 +30,7 @@
 ### Java
 
 - [Muslim App](https://github.com/choubari/Muslim-App): Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features.
-- [Wazaker](https://github.com/hamza94max/Wazaker):An islamic app to know about islam, morning and evening azkar, qibla direction, counter.
+- [Wazaker](https://github.com/hamza94max/Wazaker): An islamic app to know about islam, morning and evening azkar, qibla direction, counter.
 - [Namaz Vakti Android](https://github.com/metinkale38/prayer-times-android): A useful Application with a set of tools needed by any muslim.
 - []():
 - []():

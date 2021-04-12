@@ -17,6 +17,30 @@
 <br />
 
 # Table of Content
+- [Open Source Projects](#open-source-projects)
+  * [Web Apps](#web-apps)
+  * [Mobile Apps](#mobile-apps)
+    + [Java](#java)
+    + [Kotlin](#kotlin)
+    + [Flutter](#flutter)
+    + [Swift](#swift)
+  * [APIs & Data](#apis--data)
+  * [Libraries & Plugins](#libraries--plugins)
+    + [Java](#java-1)
+    + [Kotlin](#kotlin-1)
+    + [Swift](#swift-1)
+    + [Javascript](#javascript)
+    + [C#](#c)
+    + [Python](#python)
+    + [Dart & Flutter](#dart--flutter)
+  * [Browser Extensions](#browser-extensions)
+  * [Others](#others)
+- [Assets](#assets)
+  * [Fonts](#fonts)
+  * [Sound](#sound)
+  * [Files](#files)
+  * [Graphic Design Resources](#graphic-design-resources)
+- [Credits](#credits)
 
 # Open Source Projects
 
@@ -150,7 +174,7 @@
 - [The Noun Project](https://thenounproject.com/term/islamic/)
 - [Icon Finder](https://www.iconfinder.com/search/?q=islam)
 
-# Credits :
+# Credits
 
 ## Contributors ✨
 

@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "choubari",
+      "name": "Kawtar CHOUBARI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56233818?v=4",
+      "profile": "https://linktr.ee/choubari",
+      "contributions": [
+        "content",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Awesome-Muslims",
+  "projectOwner": "choubari",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

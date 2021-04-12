@@ -5,7 +5,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
-  <img width="200" src="media/logo.png" alt="Awesome Muslims" />
+  <img width="300" src="media/logo.png" alt="Awesome Muslims" />
   <p>
    A List of Awesome Muslim Things.
   </p>

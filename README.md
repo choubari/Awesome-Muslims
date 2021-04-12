@@ -5,9 +5,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
-  <img width="400" src="" alt="Awesome Muslims" />
-  <br /> 
-  <br /> 
+  <img width="200" src="media/logo.png" alt="Awesome Muslims" />
   <p>
    A List of Awesome Muslim Things.
   </p>
@@ -17,29 +15,30 @@
 <br />
 
 # Table of Content
+
 - [Open Source Projects](#open-source-projects)
-  * [Web Apps](#web-apps)
-  * [Mobile Apps](#mobile-apps)
-    + [Java](#java)
-    + [Kotlin](#kotlin)
-    + [Flutter](#flutter)
-    + [Swift](#swift)
-  * [APIs & Data](#apis--data)
-  * [Libraries & Plugins](#libraries--plugins)
-    + [Java](#java-1)
-    + [Kotlin](#kotlin-1)
-    + [Swift](#swift-1)
-    + [Javascript](#javascript)
-    + [C#](#c)
-    + [Python](#python)
-    + [Dart & Flutter](#dart--flutter)
-  * [Browser Extensions](#browser-extensions)
-  * [Others](#others)
+  - [Web Apps](#web-apps)
+  - [Mobile Apps](#mobile-apps)
+    - [Java](#java)
+    - [Kotlin](#kotlin)
+    - [Flutter](#flutter)
+    - [Swift](#swift)
+  - [APIs & Data](#apis--data)
+  - [Libraries & Plugins](#libraries--plugins)
+    - [Java](#java-1)
+    - [Kotlin](#kotlin-1)
+    - [Swift](#swift-1)
+    - [Javascript](#javascript)
+    - [C#](#c)
+    - [Python](#python)
+    - [Dart & Flutter](#dart--flutter)
+  - [Browser Extensions](#browser-extensions)
+  - [Others](#others)
 - [Assets](#assets)
-  * [Fonts](#fonts)
-  * [Sound](#sound)
-  * [Files](#files)
-  * [Graphic Design Resources](#graphic-design-resources)
+  - [Fonts](#fonts)
+  - [Sound](#sound)
+  - [Files](#files)
+  - [Graphic Design Resources](#graphic-design-resources)
 - [Credits](#credits)
 
 # Open Source Projects

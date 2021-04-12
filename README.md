@@ -160,9 +160,8 @@
 
 ## Files
 
-- [](https://dm.qurancomplex.gov.sa/):
-- [Quran SVG](https://github.com/batoulapps/quran-svg): SVG files for the pages of the Quran
 - [Digital Mushaf of Madinah](https://dm.qurancomplex.gov.sa): A huge list of Mushaf digital elements (vectors, HD images, .pdf, .AI). [About the project](https://dm.qurancomplex.gov.sa/en/projectabstract/).
+- [Quran SVG](https://github.com/batoulapps/quran-svg): SVG files for the pages of the Quran
 - [Quran PDF](https://www.pdfquran.com/): Download Quran in .pdf format with different languages.
 
 ## Graphic Design Resources

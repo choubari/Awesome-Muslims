@@ -63,6 +63,7 @@
 - [Qurany App](https://github.com/MahmoudMabrok/QuranyApp): Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 - [QuranOnAndroid](https://github.com/hussien89aa/QuranOnAndroid): Free open source app to listen Quran online.
 - [Muslim Mate](https://github.com/fekracomputers/MuslimMateAndroid): an android application to organize Muslims life.
+- [Kiblat Campass](https://github.com/najamiqbal/kiblat-Campass-android) : an app to find Quibla Direction.
 
 ### Kotlin
 

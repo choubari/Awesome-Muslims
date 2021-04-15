@@ -76,6 +76,7 @@
 
 - [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App): Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
 - [Prayer Times](https://github.com/flutterturkey/prayer-times): A turkish flutter app to shw prayer times.
+- [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms 
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 
 ### Swift

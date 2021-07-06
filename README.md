@@ -145,6 +145,7 @@
 - [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
+- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar  that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
 
 # Assets
 

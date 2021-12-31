@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -189,6 +189,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://linktr.ee/choubari"><img src="https://avatars.githubusercontent.com/u/56233818?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kawtar CHOUBARI</b></sub></a><br /><a href="#content-choubari" title="Content">🖋</a> <a href="#design-choubari" title="Design">🎨</a></td>
     <td align="center"><a href="https://elattariyassine.github.io"><img src="https://avatars.githubusercontent.com/u/45572720?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ELATTARIYassine</b></sub></a><br /><a href="#content-ELATTARIYassine" title="Content">🖋</a></td>
     <td align="center"><a href="https://abdelrahmanbayoumi.github.io/"><img src="https://avatars.githubusercontent.com/u/48678280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abdelrahman Bayoumi</b></sub></a><br /><a href="#content-AbdelrahmanBayoumi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/yunusefendi52"><img src="https://avatars.githubusercontent.com/u/19399214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yunus Efendi</b></sub></a><br /><a href="#content-yunusefendi52" title="Content">🖋</a></td>
   </tr>
 </table>
 

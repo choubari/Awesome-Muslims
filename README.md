@@ -45,6 +45,7 @@
 
 - [Salat-next](https://github.com/kafiln/salat-next): Prayer times in Morocco by cities (scraped from The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app/daily/casablanca).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
+- [Quranaho](https://github.com/adibemohamed/quranaho): Open Source Quran
 - [Quran Reader](https://github.com/mohdovais/quran): Quran Reader in Arabic.
 - [Time For Salah Website](https://github.com/AbdulMalikDev/TimeForSalahWebsite): A Muslim Prayer Timing Website build with pure JavaScript.
 - [QuranicAudio](https://github.com/quran/audio.quran.com): The official Repository of https://quranicaudio.com/

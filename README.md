@@ -52,6 +52,7 @@
 - [Hijri JS](https://github.com/xsoh/Hijri.js): A Hijri converter with Javasript
 - [Pray Times](https://github.com/abodehq/Pray-Times): an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 - [Muslim Mate Website](https://github.com/fekracomputers/MuslimMateWebsite): A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)
+- [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
 
 ## Mobile Apps
 

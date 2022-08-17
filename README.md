@@ -81,6 +81,7 @@
 - [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms 
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
+- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition] 
 
 ### Swift
 

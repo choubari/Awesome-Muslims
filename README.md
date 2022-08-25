@@ -108,6 +108,7 @@
 - [Adhan Java](https://github.com/batoulapps/adhan-java): High precision Islamic prayer time library for Java
 - [Hijri Date Picker](https://github.com/alhazmy13/HijriDatePicker): A library that offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers for Android 5.0 (API 21) +.
 - [Quran Verses](https://github.com/bullheadandplato/quranVerses): a library to show random Quran verse in android app.
+- [Ayah Intellij](https://github.com/anas-elgarhy/Ayah-intellij): Get a verse(an ayah) from the Quran during your coding session stay connected with the words of Allah.
 
 ### Kotlin
 

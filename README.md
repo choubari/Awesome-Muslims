@@ -66,6 +66,7 @@
 - [QuranOnAndroid](https://github.com/hussien89aa/QuranOnAndroid): Free open source app to listen Quran online.
 - [Muslim Mate](https://github.com/fekracomputers/MuslimMateAndroid): an android application to organize Muslims life.
 - [Kiblat Campass](https://github.com/najamiqbal/kiblat-Campass-android) : an app to find Quibla Direction.
+- [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda): Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications).
 
 ### Kotlin
 

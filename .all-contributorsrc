@@ -41,6 +41,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "abdenassar01",
+      "name": "ABDENASSAR AMIMI",
+      "avatar_url": "https://i.imgur.com/m6840pU.png",
+      "profile": "https://github.com/abdenassar01",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

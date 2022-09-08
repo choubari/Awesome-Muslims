@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -199,6 +199,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/yunusefendi52"><img src="https://avatars.githubusercontent.com/u/19399214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yunus Efendi</b></sub></a><br /><a href="#content-yunusefendi52" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/byeweb2"><img src="https://avatars.githubusercontent.com/u/67347371?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Salah Eddine Mebkhouti</b></sub></a><br /><a href="#content-byeweb2" title="Content">🖋</a></td>
       <td align="center"><a href="https://mouadziani.com"><img src="https://avatars.githubusercontent.com/u/29683939?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mouad Ziani</b></sub></a><br /><a href="#content-mouadziani" title="Content">🖋</a></td>
+      <td align="center"><a href="https://kafil.now.sh"><img src="https://avatars.githubusercontent.com/u/15774583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kafil</b></sub></a><br /><a href="#content-kafiln" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

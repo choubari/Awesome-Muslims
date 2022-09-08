@@ -42,7 +42,7 @@
         "content"
       ]
     },
-    { 
+    {
       "login": "byeweb2",
       "name": "Salah Eddine Mebkhouti",
       "avatar_url": "https://avatars.githubusercontent.com/u/67347371?v=4",
@@ -56,6 +56,15 @@
       "name": "Mouad Ziani",
       "avatar_url": "https://avatars.githubusercontent.com/u/29683939?v=4",
       "profile": "https://mouadziani.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kafiln",
+      "name": "Kafil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15774583?v=4",
+      "profile": "https://kafil.now.sh",
       "contributions": [
         "content"
       ]

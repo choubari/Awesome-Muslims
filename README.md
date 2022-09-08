@@ -179,6 +179,7 @@
 - [PNG Tree](https://pngtree.com/)
 - [The Noun Project](https://thenounproject.com/term/islamic/)
 - [Icon Finder](https://www.iconfinder.com/search/?q=islam)
+- [Flaticon](https://www.flaticon.com/): Access 8.0M+ vector icons & stickers, Download Free Icons and Stickers for your projects. 
 
 # Credits
 

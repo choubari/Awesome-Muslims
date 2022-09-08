@@ -41,6 +41,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "byeweb2",
+      "name": "Salah Eddine Mebkhouti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347371?v=4",
+      "profile": "https://github.com/byeweb2",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

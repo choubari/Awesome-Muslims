@@ -43,7 +43,7 @@
 
 ## Web Apps
 
-- [Salat-next](https://github.com/kafiln/salat-next): Prayer times in Morocco by cities (scraped from The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app/daily/casablanca).
+- [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
 - [Quranaho](https://github.com/adibemohamed/quranaho): Open Source Quran
 - [Quran Reader](https://github.com/mohdovais/quran): Quran Reader in Arabic.

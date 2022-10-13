@@ -1,5 +1,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -70,7 +72,7 @@
 
 ### Kotlin
 
-- [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android)
+- [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android): Source Code Tutorial App of Al-Quran
 - [Sunnah Assistant](https://github.com/saidmsaid81/SunnahAssistant): An android app for setting reminders that help you become a better person.
 - [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid): Project to find out the prayer schedule, reading the quran, etc.
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
@@ -79,10 +81,10 @@
 
 - [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App): Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
 - [Prayer Times](https://github.com/flutterturkey/prayer-times): A turkish flutter app to shw prayer times.
-- [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms 
+- [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
-- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition] 
+- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition]
 
 ### Swift
 
@@ -91,7 +93,7 @@
 
 ## APIs & Data
 
-- [Quran.com API](https://github.com/quran/quran.com-api)
+- [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
 - [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
@@ -114,7 +116,7 @@
 ### Kotlin
 
 - [Muslim DATA](https://github.com/kosratdev/muslim-data-android): Best Muslim android library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars.
-- [Azan Library](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan)
+- [Azan Library](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan): Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.
 
 ### Swift
 
@@ -151,7 +153,7 @@
 - [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
-- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar  that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
+- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
 
 # Assets
 
@@ -179,7 +181,7 @@
 - [PNG Tree](https://pngtree.com/)
 - [The Noun Project](https://thenounproject.com/term/islamic/)
 - [Icon Finder](https://www.iconfinder.com/search/?q=islam)
-- [Flaticon](https://www.flaticon.com/): Access 8.0M+ vector icons & stickers, Download Free Icons and Stickers for your projects. 
+- [Flaticon](https://www.flaticon.com/): Access 8.0M+ vector icons & stickers, Download Free Icons and Stickers for your projects.
 
 # Credits
 

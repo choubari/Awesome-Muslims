@@ -68,6 +68,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "abdenassar01",
+      "name": "Abdenassar Amimi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78881740?v=4",
+      "profile": "https://nassardev.me/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -75,5 +84,6 @@
   "projectOwner": "choubari",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }

@@ -151,6 +151,7 @@
 
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension): Prayer Time Calculation based on Geolocation for Google Chrome
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
+- [Prayer Times Chrome Extension](https://github.com/smartazanclock/PTX): Easily access prayer times and see how much time is left until next prayers.
 
 ## Others
 

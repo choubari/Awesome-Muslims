@@ -94,7 +94,8 @@
 
 ### React Native
 
-- [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeSctipt.
+- [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
+- [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app. 
 
 ## APIs & Data
 

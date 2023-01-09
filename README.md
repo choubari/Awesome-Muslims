@@ -79,7 +79,7 @@
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
 
 ### Flutter
-
+- [Mi'raj](https://github.com/Isko21/Mi-raj): An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.
 - [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App): Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
 - [Prayer Times](https://github.com/flutterturkey/prayer-times): A turkish flutter app to shw prayer times.
 - [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms

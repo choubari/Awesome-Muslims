@@ -56,6 +56,9 @@
 - [Pray Times](https://github.com/abodehq/Pray-Times): an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 - [Muslim Mate Website](https://github.com/fekracomputers/MuslimMateWebsite): A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)
 - [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
+- [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
+- [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
+- [Openadhan](https://github.com/adelpro/check-hadith): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview]( https://openadhan.web.app ).
 
 ## Mobile Apps
 
@@ -96,6 +99,7 @@
 
 - [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
 - [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app. 
+- [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview]([https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)).
 
 ## APIs & Data
 

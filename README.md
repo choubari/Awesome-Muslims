@@ -23,15 +23,15 @@
     - [Flutter](#flutter)
     - [Swift](#swift)
     - [React Native](#react-native)
-  - [APIs & Data](#apis--data)
-  - [Libraries & Plugins](#libraries--plugins)
+  - [APIs \& Data](#apis--data)
+  - [Libraries \& Plugins](#libraries--plugins)
     - [Java](#java-1)
     - [Kotlin](#kotlin-1)
     - [Swift](#swift-1)
     - [Javascript](#javascript)
     - [C#](#c)
     - [Python](#python)
-    - [Dart & Flutter](#dart--flutter)
+    - [Dart \& Flutter](#dart--flutter)
   - [Browser Extensions](#browser-extensions)
   - [Others](#others)
 - [Assets](#assets)
@@ -156,6 +156,7 @@
 
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension): Prayer Time Calculation based on Geolocation for Google Chrome
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
+- [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
 
 ## Others
 

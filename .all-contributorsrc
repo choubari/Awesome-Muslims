@@ -95,6 +95,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "farajist",
+      "name": "Hamza Faraji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28780579?v=4",
+      "profile": "http://farajist.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -32,7 +32,7 @@
     - [C#](#c)
     - [Python](#python)
     - [Dart & Flutter](#dart--flutter)
-  - [Browser Extensions](#browser-extensions)
+  - [Extensions](#extensions)
   - [Others](#others)
 - [Assets](#assets)
   - [Fonts](#fonts)
@@ -152,11 +152,12 @@
 - [Flutter Qiblah](https://github.com/medyas/flutter_qiblah) : a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.
 - [Adhan Dart / Flutter](https://github.com/iamriajul/adhan-dart) : Adhan Dart is a well tested and well documented library for calculating Islamic prayer times.
 
-## Browser Extensions
+## Extensions
 
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension): Prayer Time Calculation based on Geolocation for Google Chrome
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
+- [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
 
 ## Others
 
@@ -175,7 +176,7 @@
 
 ## Sound
 
-- [QuranicAudio](https://download.quranicaudio.com/quran/): A list of quality Quran Recitations used on QuranicAudio.com , get to know more info [here](https://quranicaudio.com/about).
+- [QuranicAudio](https://github.com/quran/audio.quran.com): A list of quality Quran Recitations used on [QuranicAudio.com](http://quranicaudio.com/) , get to know more info [here](https://quranicaudio.com/about).
 - [Quran Audio Library](https://audio.qurancomplex.gov.sa/site/): Listen to audio recordings to the readers of the complex and translations of Quran.
 
 ## Files

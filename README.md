@@ -59,8 +59,9 @@
 - [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
 - [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
-- [Openadhan](https://github.com/adelpro/check-hadith): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview]( https://openadhan.web.app ).
+- [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview]( https://openadhan.web.app ).
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
+
 
 ## Mobile Apps
 

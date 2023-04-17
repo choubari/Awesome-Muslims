@@ -48,6 +48,7 @@
 
 - [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
+- [Quran Multi](https://github.com/fawazahmed0/quran): Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
 - [Quranaho](https://github.com/adibemohamed/quranaho): Open Source Quran
 - [Quran Reader](https://github.com/mohdovais/quran): Quran Reader in Arabic.
 - [Time For Salah Website](https://github.com/AbdulMalikDev/TimeForSalahWebsite): A Muslim Prayer Timing Website build with pure JavaScript.
@@ -59,6 +60,8 @@
 - [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
 - [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview]( https://openadhan.web.app ).
+- [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
+
 
 ## Mobile Apps
 
@@ -105,12 +108,14 @@
 
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
+- [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations
 - [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
 - [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
 - [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on http://api.aladhan.com.
 - [Quran CSV](https://github.com/azvox/quran-csv/tree/master/resources)
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data): Open Hadith Library of the databases of 9 different books
 - [Sunnah API](https://github.com/sunnah-com/api): The official API of sunnah.com for retrieving information about hadith collections.
+- [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 
 ## Libraries & Plugins

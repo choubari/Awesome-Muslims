@@ -113,6 +113,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tasnuva1",
+      "name": "Fahmida Mashura Tasnuva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62549329?v=4",
+      "profile": "http://tasnuva1.github.io",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,

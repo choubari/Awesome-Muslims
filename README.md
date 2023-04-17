@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -226,6 +226,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://www.quranipfs.com"><img src="https://avatars.githubusercontent.com/u/47066151?v=4?s=100" width="100px;" alt="adelpro"/><br /><sub><b>adelpro</b></sub></a><br /><a href="#content-adelpro" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://farajist.me"><img src="https://avatars.githubusercontent.com/u/28780579?v=4?s=100" width="100px;" alt="Hamza Faraji"/><br /><sub><b>Hamza Faraji</b></sub></a><br /><a href="#content-farajist" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fawazahmed0"><img src="https://avatars.githubusercontent.com/u/20347013?v=4?s=100" width="100px;" alt="Fawaz Ahmed"/><br /><sub><b>Fawaz Ahmed</b></sub></a><br /><a href="#content-fawazahmed0" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://tasnuva1.github.io"><img src="https://avatars.githubusercontent.com/u/62549329?v=4?s=100" width="100px;" alt="Fahmida Mashura Tasnuva"/><br /><sub><b>Fahmida Mashura Tasnuva</b></sub></a><br /><a href="#maintenance-tasnuva1" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>

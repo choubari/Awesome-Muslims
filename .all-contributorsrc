@@ -122,6 +122,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "A7med3bdulBaset",
+      "name": "Ahmed Abdelbaset",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82659015?v=4",
+      "profile": "https://github.com/A7med3bdulBaset",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -130,5 +139,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }

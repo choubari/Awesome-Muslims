@@ -18,7 +18,6 @@
 
 - [Table of Content](#table-of-content)
 - [Open Source Projects](#open-source-projects)
-
   - [Web Apps](#web-apps)
   - [Mobile Apps](#mobile-apps)
     - [Java](#java)
@@ -42,7 +41,6 @@
     - [Dart & Flutter](#dart--flutter)
   - [Extensions](#extensions)
   - [Others](#others)
-
 - [Assets](#assets)
   - [Fonts](#fonts)
   - [Sound](#sound)

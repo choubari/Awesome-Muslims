@@ -265,7 +265,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A7med3bdulBaset"><img src="https://avatars.githubusercontent.com/u/82659015?v=4?s=100" width="100px;" alt="Ahmed Abdelbaset"/><br /><sub><b>Ahmed Abdelbaset</b></sub></a><br /><a href="#content-A7med3bdulBaset" title="Content">🖋</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0xzer0x"><img src="https://avatars.githubusercontent.com/u/32334265?v=4?s=100" width="100px;" alt="Youssef Fathy"/><br /><sub><b>Youssef Fathy</b></sub></a><br /><a href="#content-0xzer0x" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

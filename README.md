@@ -1,5 +1,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -23,14 +25,19 @@
     - [Flutter](#flutter)
     - [Swift](#swift)
     - [React Native](#react-native)
+  - [Desktop Apps](#desktop-apps)
+    - [Java](#java-1)
+    - [Javascript](#javascript)
+    - [C/C++](#c-cpp)
+    - [Python](#python)
   - [APIs & Data](#apis--data)
   - [Libraries & Plugins](#libraries--plugins)
-    - [Java](#java-1)
+    - [Java](#java-2)
     - [Kotlin](#kotlin-1)
     - [Swift](#swift-1)
-    - [Javascript](#javascript)
+    - [Javascript](#javascript-1)
     - [C#](#c)
-    - [Python](#python)
+    - [Python](#python-1)
     - [Dart & Flutter](#dart--flutter)
   - [Extensions](#extensions)
   - [Others](#others)
@@ -59,9 +66,8 @@
 - [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
 - [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
-- [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview]( https://openadhan.web.app ).
+- [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview](https://openadhan.web.app).
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
-
 
 ## Mobile Apps
 
@@ -85,6 +91,7 @@
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
 
 ### Flutter
+
 - [Mi'raj](https://github.com/Isko21/Mi-raj): An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.
 - [Holy Quran](https://github.com/m-hamzashakeel/The_Holy_Quran_App): Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter The data is fetched using API.
 - [Prayer Times](https://github.com/flutterturkey/prayer-times): A turkish flutter app to shw prayer times.
@@ -101,8 +108,32 @@
 ### React Native
 
 - [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
-- [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app. 
-- [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview]([https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)).
+- [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
+- [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview](<[https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)>).
+
+## Desktop Apps
+
+### Java
+
+- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
+- [Salawat](https://github.com/DBChoco/Salawat): A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.
+- [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
+
+### Javascript
+
+- [Muezzin](https://github.com/DBChoco/Muezzin): A prayer times and Adhan application for Windows, macOS and GNU/Linux.
+- [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application): An electron-based Azkar/prayer times application for Windows & Linux.
+- [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
+
+### C/C++ <a name="c-cpp"></a>
+
+- [Next Prayer](https://github.com/AbdeltwabMF/next-prayer): Islamic prayers reminder for Linux status bar.
+- [Quran Companion](https://github.com/0xzer0x/quran-companion): cross-platform Quran reader & player written in Qt/C++.
+- [QuranApp](https://github.com/Muslim-Programmers/QuranApp-Linux): Quran app is an easy to use Quran reader with support for translation in multiple languages and stream beautiful Quran recitation.
+
+### Python
+
+- [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan 🕌 application for windows and linux that operates offline.
 
 ## APIs & Data
 
@@ -150,6 +181,9 @@
 
 ### Python
 
+- [Adhan Python](https://github.com/alphahm/adhanpy): High precision Islamic prayer time library for Python.
+- [HijriDate](https://github.com/dralshehri/hijridate): a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.
+- [PyQuran](https://github.com/hci-lab/PyQuran): a Python package which provides tools for Quranic Analysis and Arabic texts.
 - [pyIslam](https://github.com/abougouffa/pyIslam) : a Python library to calculate prayer times, hijri date, qiblah direction and more
 - [Python Quran ODOA](https://github.com/Keda87/python-quran-odoa): library to get random ayah within quran surah for supporting "ODOA" (One Day One Ayah) campaign.
 
@@ -168,10 +202,8 @@
 ## Others
 
 - [Ayah Detection](https://github.com/quran/ayah-detection): python scripts to detect ayah markers from quran images .
-- [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
-- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
 
 # Assets
 
@@ -179,14 +211,17 @@
 
 - [Quranic Fonts](https://tanzil.net/docs/quranic_fonts): Arabic fonts used in [Tanzil](https://tanzil.net/).
 - [Quran Fonts](https://fonts.qurancomplex.gov.sa/): A website that contains Quran Fonts and Calligraphy.
+- [QCF Fonts](https://github.com/mustafa0x/qpc-fonts): Quran complex fonts for every page of the Quran.
 
 ## Sound
 
 - [QuranicAudio](https://github.com/quran/audio.quran.com): A list of quality Quran Recitations used on [QuranicAudio.com](http://quranicaudio.com/) , get to know more info [here](https://quranicaudio.com/about).
 - [Quran Audio Library](https://audio.qurancomplex.gov.sa/site/): Listen to audio recordings to the readers of the complex and translations of Quran.
+- [EveryAyah](https://everyayah.com/recitations_ayat.html): Quran verse-by-verse & page recitations.
 
 ## Files
 
+- [Glorious Qur'an Complex Platform for Developers](https://qurancomplex.gov.sa/en/techquran/dev/): Quran fonts & data in multiple forms (json, sql, csv, html)
 - [Digital Mushaf of Madinah](https://dm.qurancomplex.gov.sa): A huge list of Mushaf digital elements (vectors, HD images, .pdf, .AI). [About the project](https://dm.qurancomplex.gov.sa/en/projectabstract/).
 - [Quran SVG](https://github.com/batoulapps/quran-svg): SVG files for the pages of the Quran
 - [Quran PDF](https://www.pdfquran.com/): Download Quran in .pdf format with different languages.

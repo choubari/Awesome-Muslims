@@ -68,6 +68,7 @@
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
 - [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview](https://openadhan.web.app).
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
+- [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 
 ## Mobile Apps
 

@@ -1,7 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -265,6 +263,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fawazahmed0"><img src="https://avatars.githubusercontent.com/u/20347013?v=4?s=100" width="100px;" alt="Fawaz Ahmed"/><br /><sub><b>Fawaz Ahmed</b></sub></a><br /><a href="#content-fawazahmed0" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://tasnuva1.github.io"><img src="https://avatars.githubusercontent.com/u/62549329?v=4?s=100" width="100px;" alt="Fahmida Mashura Tasnuva"/><br /><sub><b>Fahmida Mashura Tasnuva</b></sub></a><br /><a href="#maintenance-tasnuva1" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A7med3bdulBaset"><img src="https://avatars.githubusercontent.com/u/82659015?v=4?s=100" width="100px;" alt="Ahmed Abdelbaset"/><br /><sub><b>Ahmed Abdelbaset</b></sub></a><br /><a href="#content-A7med3bdulBaset" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0xzer0x"><img src="https://avatars.githubusercontent.com/u/32334265?v=4?s=100" width="100px;" alt="Youssef Fathy"/><br /><sub><b>Youssef Fathy</b></sub></a><br /><a href="#content-0xzer0x" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

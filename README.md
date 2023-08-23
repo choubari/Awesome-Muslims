@@ -82,12 +82,14 @@
 - [Kiblat Campass](https://github.com/najamiqbal/kiblat-Campass-android) : an app to find Quibla Direction.
 - [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda): Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications).
 
+
 ### Kotlin
 
 - [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android): Source Code Tutorial App of Al-Quran
 - [Sunnah Assistant](https://github.com/saidmsaid81/SunnahAssistant): An android app for setting reminders that help you become a better person.
 - [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid): Project to find out the prayer schedule, reading the quran, etc.
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
+- [Al Quran](https://github.com/thefaisalurrehman/Al-Quran): Al Quran is a 100% Free and Open Source App without any Ads. This is a simple (Text based) Quran app for Android.
 
 ### Flutter
 
@@ -266,6 +268,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/thefaisalurrehman"><img src="https://avatars.githubusercontent.com/u/77713815?v=4" width="100px;" alt="Faisal ur Rehman"/><br /><sub><b>Faisal ur Rehman</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
@@ -275,4 +278,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!

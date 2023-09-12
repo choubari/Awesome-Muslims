@@ -141,6 +141,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "thefaisalurrehman",
+      "name": "Fasial ur Rehman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77713815?v=4",
+      "profile": "https://www.softaxes.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

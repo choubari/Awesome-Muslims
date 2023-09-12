@@ -268,7 +268,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/thefaisalurrehman"><img src="https://avatars.githubusercontent.com/u/77713815?v=4" width="100px;" alt="Faisal ur Rehman"/><br /><sub><b>Faisal ur Rehman</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

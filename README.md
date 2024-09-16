@@ -136,6 +136,7 @@
 ### Python
 
 - [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan 🕌 application for windows and linux that operates offline.
+- [Eeman](https://codeberg.org/SHuRiKeN/Eeman): An app that lets you track and get notified of your Salah timings, and read the beautiful Quran written in GTK 4 and Python for Linux.
 
 ## APIs & Data
 

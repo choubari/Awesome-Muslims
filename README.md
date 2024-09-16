@@ -103,6 +103,7 @@
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
 - [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition]
+- [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla): Minimalist, accurate, and privacy-focused qibla app.
 
 ### Swift
 
@@ -138,6 +139,7 @@
 ### Python
 
 - [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan 🕌 application for windows and linux that operates offline.
+- [Eeman](https://codeberg.org/SHuRiKeN/Eeman): An app that lets you track and get notified of your Salah timings, and read the beautiful Quran written in GTK 4 and Python for Linux.
 
 ## APIs & Data
 
@@ -272,6 +274,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.softaxes.com/"><img src="https://avatars.githubusercontent.com/u/77713815?v=4?s=100" width="100px;" alt="Fasial ur Rehman"/><br /><sub><b>Fasial ur Rehman</b></sub></a><br /><a href="#content-thefaisalurrehman" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/ahmd-sh"><img src="https://avatars.githubusercontent.com/u/42516500?v=4" width="100px;" alt="Ahmed Shaikh"/><br /><sub><b>Ahmd-Sh</b></sub></a><br /><a href="#content-ahmdsh" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

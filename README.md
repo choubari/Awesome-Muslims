@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -274,7 +274,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.softaxes.com/"><img src="https://avatars.githubusercontent.com/u/77713815?v=4?s=100" width="100px;" alt="Fasial ur Rehman"/><br /><sub><b>Fasial ur Rehman</b></sub></a><br /><a href="#content-thefaisalurrehman" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/ahmd-sh"><img src="https://avatars.githubusercontent.com/u/42516500?v=4" width="100px;" alt="Ahmed Shaikh"/><br /><sub><b>Ahmd-Sh</b></sub></a><br /><a href="#content-ahmdsh" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://madi.se/"><img src="https://avatars.githubusercontent.com/u/29486218?v=4?s=100" width="100px;" alt="Madi"/><br /><sub><b>Madi</b></sub></a><br /><a href="#content-jadmadi" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

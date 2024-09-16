@@ -150,6 +150,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jadmadi",
+      "name": "Madi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29486218?v=4",
+      "profile": "https://madi.se/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

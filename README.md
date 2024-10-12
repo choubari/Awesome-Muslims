@@ -68,6 +68,7 @@
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
+- [Open-mushaf](https://github.com/adelpro/open-mushaf): An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design.
 
 
 
@@ -114,7 +115,8 @@
 
 - [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
 - [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
-- [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview](<[https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)>).
+- [Check-hadith-native](https://github.com/adelpro/check-hadith-native): Check hadith nabawi using dorar API. [Preview](<[https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)>).
+- [Open-Mushaf Native](https://github.com/adelpro/open-mushaf-native): A modern Quran Mushaf (warsh) application built with Expo and React Native, with tafseer and Quran text search.
 
 ## Desktop Apps
 

@@ -102,7 +102,7 @@
 - [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
-- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition]
+- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur'an - Hafs from Asim [Arabic Edition]
 - [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla): Minimalist, accurate, and privacy-focused qibla app.
 
 ### Swift
@@ -128,7 +128,7 @@
 
 - [Muezzin](https://github.com/DBChoco/Muezzin): A prayer times and Adhan application for Windows, macOS and GNU/Linux.
 - [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application): An electron-based Azkar/prayer times application for Windows & Linux.
-- [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
+- [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the \"Hisn-al-Muslim\" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
 
 ### C/C++ <a name="c-cpp"></a>
 
@@ -191,7 +191,7 @@
 - [HijriDate](https://github.com/dralshehri/hijridate): a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.
 - [PyQuran](https://github.com/hci-lab/PyQuran): a Python package which provides tools for Quranic Analysis and Arabic texts.
 - [pyIslam](https://github.com/abougouffa/pyIslam) : a Python library to calculate prayer times, hijri date, qiblah direction and more
-- [Python Quran ODOA](https://github.com/Keda87/python-quran-odoa): library to get random ayah within quran surah for supporting "ODOA" (One Day One Ayah) campaign.
+- [Python Quran ODOA](https://github.com/Keda87/python-quran-odoa): library to get random ayah within quran surah for supporting \"ODOA\" (One Day One Ayah) campaign.
 
 ### Dart & Flutter
 
@@ -204,6 +204,7 @@
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
 - [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
+- [Muslim Companion](https://github.com/CosmicCoder13/muslim-companion): A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface.
 
 ## Others
 

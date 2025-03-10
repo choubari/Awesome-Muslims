@@ -29,7 +29,8 @@
     - [Kotlin](#kotlin-1)
     - [Swift](#swift-1)
     - [Javascript](#javascript)
-    - [Typescript](#javascript)
+    - [Typescript](#typescript)
+
     - [C#](#c)
     - [Python](#python)
     - [Dart & Flutter](#dart--flutter)

@@ -89,6 +89,7 @@
 
 ### Kotlin
 
+- [Quran for Android](https://github.com/quran/quran_android): a Quran.com offical Android App 
 - [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android): Source Code Tutorial App of Al-Quran
 - [Sunnah Assistant](https://github.com/saidmsaid81/SunnahAssistant): An android app for setting reminders that help you become a better person.
 - [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid): Project to find out the prayer schedule, reading the quran, etc.

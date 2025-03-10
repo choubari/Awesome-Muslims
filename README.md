@@ -1,7 +1,3 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <div align="center">
   <img width="300" src="media/logo.png" alt="Awesome Muslims" />
   <p>
@@ -253,43 +249,4 @@
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/choubari"><img src="https://avatars.githubusercontent.com/u/56233818?v=4?s=100" width="100px;" alt="Kawtar CHOUBARI"/><br /><sub><b>Kawtar CHOUBARI</b></sub></a><br /><a href="#content-choubari" title="Content">🖋</a> <a href="#design-choubari" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://elattariyassine.github.io"><img src="https://avatars.githubusercontent.com/u/45572720?v=4?s=100" width="100px;" alt="ELATTARIYassine"/><br /><sub><b>ELATTARIYassine</b></sub></a><br /><a href="#content-ELATTARIYassine" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://abdelrahmanbayoumi.github.io/"><img src="https://avatars.githubusercontent.com/u/48678280?v=4?s=100" width="100px;" alt="Abdelrahman Bayoumi"/><br /><sub><b>Abdelrahman Bayoumi</b></sub></a><br /><a href="#content-AbdelrahmanBayoumi" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yunusefendi52"><img src="https://avatars.githubusercontent.com/u/19399214?v=4?s=100" width="100px;" alt="Yunus Efendi"/><br /><sub><b>Yunus Efendi</b></sub></a><br /><a href="#content-yunusefendi52" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/byeweb2"><img src="https://avatars.githubusercontent.com/u/67347371?v=4?s=100" width="100px;" alt="Salah Eddine Mebkhouti"/><br /><sub><b>Salah Eddine Mebkhouti</b></sub></a><br /><a href="#content-byeweb2" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://mouadziani.com"><img src="https://avatars.githubusercontent.com/u/29683939?v=4?s=100" width="100px;" alt="Mouad Ziani"/><br /><sub><b>Mouad Ziani</b></sub></a><br /><a href="#content-mouadziani" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://kafil.now.sh"><img src="https://avatars.githubusercontent.com/u/15774583?v=4?s=100" width="100px;" alt="Kafil"/><br /><sub><b>Kafil</b></sub></a><br /><a href="#content-kafiln" title="Content">🖋</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://nassardev.me/"><img src="https://avatars.githubusercontent.com/u/78881740?v=4?s=100" width="100px;" alt="Abdenassar Amimi"/><br /><sub><b>Abdenassar Amimi</b></sub></a><br /><a href="#content-abdenassar01" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/iskhaksuranov/"><img src="https://avatars.githubusercontent.com/u/76448222?v=4?s=100" width="100px;" alt="Iskhak Suranov"/><br /><sub><b>Iskhak Suranov</b></sub></a><br /><a href="#content-Isko21" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.quranipfs.com"><img src="https://avatars.githubusercontent.com/u/47066151?v=4?s=100" width="100px;" alt="adelpro"/><br /><sub><b>adelpro</b></sub></a><br /><a href="#content-adelpro" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://farajist.me"><img src="https://avatars.githubusercontent.com/u/28780579?v=4?s=100" width="100px;" alt="Hamza Faraji"/><br /><sub><b>Hamza Faraji</b></sub></a><br /><a href="#content-farajist" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fawazahmed0"><img src="https://avatars.githubusercontent.com/u/20347013?v=4?s=100" width="100px;" alt="Fawaz Ahmed"/><br /><sub><b>Fawaz Ahmed</b></sub></a><br /><a href="#content-fawazahmed0" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://tasnuva1.github.io"><img src="https://avatars.githubusercontent.com/u/62549329?v=4?s=100" width="100px;" alt="Fahmida Mashura Tasnuva"/><br /><sub><b>Fahmida Mashura Tasnuva</b></sub></a><br /><a href="#maintenance-tasnuva1" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A7med3bdulBaset"><img src="https://avatars.githubusercontent.com/u/82659015?v=4?s=100" width="100px;" alt="Ahmed Abdelbaset"/><br /><sub><b>Ahmed Abdelbaset</b></sub></a><br /><a href="#content-A7med3bdulBaset" title="Content">🖋</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://sousali.com"><img src="https://avatars.githubusercontent.com/u/6825714?v=4?s=100" width="100px;" alt="Ayoub Sousali"/><br /><sub><b>Ayoub Sousali</b></sub></a><br /><a href="#content-ayoubsousali" title="Content">🖋</a> <a href="https://github.com/choubari/Awesome-Muslims/commits?author=ayoubsousali" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.softaxes.com/"><img src="https://avatars.githubusercontent.com/u/77713815?v=4?s=100" width="100px;" alt="Fasial ur Rehman"/><br /><sub><b>Fasial ur Rehman</b></sub></a><br /><a href="#content-thefaisalurrehman" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://madi.se/"><img src="https://avatars.githubusercontent.com/u/29486218?v=4?s=100" width="100px;" alt="Madi"/><br /><sub><b>Madi</b></sub></a><br /><a href="#content-jadmadi" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://shuriken.sh"><img src="https://avatars.githubusercontent.com/u/40650341?v=4?s=100" width="100px;" alt="Saladin"/><br /><sub><b>Saladin</b></sub></a><br /><a href="#content-SaladinAyyub" title="Content">🖋</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲

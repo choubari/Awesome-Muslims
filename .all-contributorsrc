@@ -86,6 +86,88 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "adelpro",
+      "name": "adelpro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47066151?v=4",
+      "profile": "http://www.quranipfs.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "farajist",
+      "name": "Hamza Faraji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28780579?v=4",
+      "profile": "http://farajist.me",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "fawazahmed0",
+      "name": "Fawaz Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20347013?v=4",
+      "profile": "https://github.com/fawazahmed0",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tasnuva1",
+      "name": "Fahmida Mashura Tasnuva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62549329?v=4",
+      "profile": "http://tasnuva1.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "A7med3bdulBaset",
+      "name": "Ahmed Abdelbaset",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82659015?v=4",
+      "profile": "https://github.com/A7med3bdulBaset",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ayoubsousali",
+      "name": "Ayoub Sousali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6825714?v=4",
+      "profile": "https://sousali.com",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "thefaisalurrehman",
+      "name": "Fasial ur Rehman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77713815?v=4",
+      "profile": "https://www.softaxes.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jadmadi",
+      "name": "Madi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29486218?v=4",
+      "profile": "https://madi.se/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "SaladinAyyub",
+      "name": "Saladin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40650341?v=4",
+      "profile": "https://shuriken.sh",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -94,5 +176,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }

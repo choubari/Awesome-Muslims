@@ -33,7 +33,8 @@
     - [Java](#java-2)
     - [Kotlin](#kotlin-1)
     - [Swift](#swift-1)
-    - [Javascript](#javascript-1)
+    - [Javascript](#javascript)
+    - [Typescript](#typescript)
     - [C#](#c)
     - [Python](#python-1)
     - [Dart & Flutter](#dart--flutter)
@@ -114,6 +115,7 @@
 
 - [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
 - [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
+- [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native): Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
 - [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview](<[https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)>).
 
 ## Desktop Apps
@@ -180,6 +182,10 @@
 
 - [Adhan JS](https://github.com/batoulapps/adhan-js): High precision Islamic prayer time library for Javascript
 - [Hijri Date Picker](https://github.com/abublihi/hijri-date-picker): A simple and reusble react component for hijir date pickr
+
+### Typescript
+
+- [Open-Mushaf](https://github.com/adelpro/open-mushaf): An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design.
 
 ### C#
 

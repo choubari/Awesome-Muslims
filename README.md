@@ -207,6 +207,7 @@
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
 - [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
+- [Muslim Companion](https://github.com/CosmicCoder13/muslim-companion): A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh)
 
 ## Others
 

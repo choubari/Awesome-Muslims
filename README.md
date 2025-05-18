@@ -1,7 +1,7 @@
 <div align="center">
   <img width="300" src="media/logo.png" alt="Awesome Muslims" />
   <p>
-   A List of Awesome Muslim Things.
+   A List of Awesome Muslim Things - Open Source
   </p>
   <a href="https://awesome.re">
   <img width="100" src="https://awesome.re/badge.svg" alt="Awesome Muslims" /></a>

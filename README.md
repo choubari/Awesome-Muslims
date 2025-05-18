@@ -169,6 +169,7 @@
 
 - [Muslim DATA](https://github.com/kosratdev/muslim-data-android): Best Muslim android library that provides: Prayer Times, Offline Geocoder, Names of Allah, and Azkars.
 - [Azan Library](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan): Library aiming to calculate prayer time with one line code, if you implement prayer time application , there is no need to do this headache again.
+- [PrayerWatchFace](https://github.com/3llomi/PrayerWatchFace): Prayer Times on your Watch
 
 ### Swift
 

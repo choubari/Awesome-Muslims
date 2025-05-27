@@ -48,6 +48,7 @@
 
 ## Web Apps
 
+- [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 - [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
 - [Quran Multi](https://github.com/fawazahmed0/quran): Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
@@ -142,6 +143,7 @@
 
 ## APIs & Data
 
+* [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations

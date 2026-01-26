@@ -69,8 +69,6 @@
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
 
-
-
 ## Mobile Apps
 
 ### Java
@@ -85,10 +83,9 @@
 - [Kiblat Campass](https://github.com/najamiqbal/kiblat-Campass-android) : an app to find Quibla Direction.
 - [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda): Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications).
 
-
 ### Kotlin
 
-- [Quran for Android](https://github.com/quran/quran_android): a Quran.com offical Android App 
+- [Quran for Android](https://github.com/quran/quran_android): a Quran.com offical Android App
 - [AlQuran Android](https://github.com/AzharRivaldi/AlQuran-Android): Source Code Tutorial App of Al-Quran
 - [Sunnah Assistant](https://github.com/saidmsaid81/SunnahAssistant): An android app for setting reminders that help you become a better person.
 - [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid): Project to find out the prayer schedule, reading the quran, etc.
@@ -105,6 +102,9 @@
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
 - [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition]
 - [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla): Minimalist, accurate, and privacy-focused qibla app.
+- [AmalanKu](https://play.google.com/store/apps/details?id=com.flagodna.amalanku): Mobile application to help Muslims with self-accountability, consistency, and daily devotion tracking.
+- [HadisKu](https://play.google.com/store/apps/details?id=com.flagodna.hadisku): Comprehensive hadith library containing collections from 14 imams (Android, Windows, Linux, Web).
+- [FastiQuran](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran): Ad-free cross-platform Quran reading experience (Android, Windows, Linux, Web).
 
 ### Swift
 
@@ -145,19 +145,20 @@
 
 ## APIs & Data
 
-* [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
-- [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
-- [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
-- [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations
-- [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
-- [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
-- [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json): A database of the hadiths of the Prophet from 17 books, including the nine books and others.
-- [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on http://api.aladhan.com.
-- [Quran CSV](https://github.com/azvox/quran-csv/tree/master/resources)
-- [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data): Open Hadith Library of the databases of 9 different books
-- [Sunnah API](https://github.com/sunnah-com/api): The official API of sunnah.com for retrieving information about hadith collections.
-- [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
-- [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
+- [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
+
+* [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
+* [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
+* [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations
+* [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
+* [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
+* [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json): A database of the hadiths of the Prophet from 17 books, including the nine books and others.
+* [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on http://api.aladhan.com.
+* [Quran CSV](https://github.com/azvox/quran-csv/tree/master/resources)
+* [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data): Open Hadith Library of the databases of 9 different books
+* [Sunnah API](https://github.com/sunnah-com/api): The official API of sunnah.com for retrieving information about hadith collections.
+* [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
+* [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 
 ## Libraries & Plugins
 

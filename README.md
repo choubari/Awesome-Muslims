@@ -68,6 +68,7 @@
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
+- [Takbeer Time](https://github.com/mjqazi/Jamat): Free, non-profit web and Android app to find nearby masjids with crowdsourced Jumma, khutbah, iqamah, and jamat times. [Preview](https://takbeertime.com/) [Android](https://play.google.com/store/apps/details?id=com.takbeertime.android)
 
 
 

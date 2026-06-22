@@ -68,7 +68,7 @@
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
-
+- [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) Calculates Sunnah, voluntary, and prohibited fasting days and times. [Preview](https://calendar.tayyiba.live/)
 
 
 ## Mobile Apps

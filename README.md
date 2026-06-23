@@ -220,6 +220,7 @@
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
 - [IslamicCLI](https://github.com/IcyDrae/Islamic): a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.
+- [hijri](https://github.com/UtmostBoundary/hijri): a cal-like command-line tool for Hijri (Islamic) dates — month/year calendars, Gregorian↔Hijri conversion, and Islamic events (Umm al-Qura).
 
 # Assets
 

@@ -95,6 +95,8 @@
 - [LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid): Project to find out the prayer schedule, reading the quran, etc.
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
 - [Al Quran](https://github.com/thefaisalurrehman/Al-Quran): Al Quran is a 100% Free and Open Source App without any Ads. This is a simple (Text based) Quran app for Android.
+- [Material Quran](https://github.com/2plus1star/material-quran): Offline Quran reader with the Uthmani text, English translation and tajweed colouring, plus optional recitation audio.
+- [Material Prayer Times](https://github.com/2plus1star/material-prayer-times): Prayer times, qibla compass and Hijri date, calculated on device with no account or server.
 
 ### Flutter
 

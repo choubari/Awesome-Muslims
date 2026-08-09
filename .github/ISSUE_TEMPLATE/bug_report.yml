@@ -1,0 +1,20 @@
+name: "Report a Broken Link or Incorrect Info"
+description: "Report an issue with an existing link, outdated project, or formatting error."
+title: "fix: [Issue Summary]"
+labels: ["bug"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: "Resource or Link Affected"
+      placeholder: "e.g., Salat Vue link"
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: "Describe the Issue"
+      placeholder: "Explain what is broken or incorrect (e.g., 404 error, domain expired, project renamed)."
+    validations:
+      required: true

@@ -209,6 +209,7 @@
 
 ## Extensions
 
+- [QuranLens](https://github.com/nanfaweb/QuranLens): A Chrome extension that identifies the Surah and Ayah being recited in a YouTube video by matching its Arabic captions against the Quran entirely on-device. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/jigacmpijeacfjocnodgjliikbldgdem).
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension): Prayer Time Calculation based on Geolocation for Google Chrome
 - [Quran Extension](https://github.com/shahednasser/quran-extension): Replace the new tab page with Quran verses and beautiful nature pictures.
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.

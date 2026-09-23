@@ -117,6 +117,7 @@
 - [Muslim](https://github.com/abdenassar01/muslim): A quran and azkar reading application for android written in react native with TypeScript.
 - [Al-Azan](https://github.com/meypod/al-azan/): Privacy-first ad-free open-source muslim Adhan (islamic prayer times) app.
 - [Open-Mushaf-Native](https://github.com/adelpro/open-mushaf-native): Open Mushaf Native is a modern and Quran Mushaf application built with Expo and React Native, designed for seamless, immersive reading and interaction on multiple platforms.
+- [Mihrab](https://github.com/Hassan-PS/Mihrab): Prayer times with adhan reminders and home-screen widgets, the full Madinah mushaf with recitation and tafsir, duas, tasbih and a fasting log. Offline-first, no ads or trackers, on Android, iPhone, iPad and Mac. [Preview](https://mihrab.elghamri.se/).
 - [Check-hadith-native](https://github.com/adelpro/check-hadith-native):Check hadith nabawi using dorar API. [Preview](<[https://adelpro.github.io/check-hadith](https://check-hadith.web.app/)>).
 
 ## Desktop Apps

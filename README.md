@@ -51,7 +51,7 @@
 
 - [Quranfi](https://github.com/Quranfi-Project/quranfi-web): A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [Preview](https://www.quranfi.xyz/)
 - [Falah.io](https://github.com/abdessamadbettal/falah): An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
-- [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
+- [Qafiyah](https://github.com/raaqimorg/qafiyah): The Arabic poetry reference, an open-source catalog of poems and poets. [Preview](https://qafiyah.com)
 - [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
 - [Quran Multi](https://github.com/fawazahmed0/quran): Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
@@ -147,7 +147,7 @@
 
 ## APIs & Data
 
-* [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
+- [Qafiyah](https://github.com/raaqimorg/qafiyah): Open-source Arabic poetry data with a free JSON API.
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations

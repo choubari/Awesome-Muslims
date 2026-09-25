@@ -18,10 +18,18 @@ body:
   - type: input
     id: link
     attributes:
-      label: "Repository or Website Link"
+      label: "Repository or Source Link"
       placeholder: "https://github.com/..."
     validations:
       required: true
+  - type: input
+    id: preview
+    attributes:
+      label: "Preview / Demo Link (optional)"
+      description: "Live demo, app store page, or screenshot — leave blank if none"
+      placeholder: "https://..."
+    validations:
+      required: false
 
   - type: dropdown
     id: category

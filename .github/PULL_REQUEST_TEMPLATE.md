@@ -7,3 +7,4 @@
 - [ ] I have placed the entry in the correct category/section.
 - [ ] I have followed the formatting guidelines (`- [Name](link): Description.`).
 - [ ] The resource is not a duplicate of an existing entry.
+- [ ] This is an open-source project or a free/openly-licensed asset (not a paid or closed-source product).

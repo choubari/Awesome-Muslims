@@ -36,6 +36,6 @@ Before submitting a Pull Request, please ensure your suggestion meets the follow
    git commit -m "docs: add <Resource Name> to <Section>"
 6. **Push** your branch:
    git push origin add-new-resource
-7. **Open a Pull Request** against the `main` branch of `choubari/Awesome-Muslims`.
+7. **Open a Pull Request** against the `master` branch of `choubari/Awesome-Muslims`.
 
 Thank you for helping build a better ecosystem for the Muslim developer community! May Allah reward your efforts. 🤲

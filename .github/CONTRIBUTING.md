@@ -12,7 +12,7 @@ Before submitting a Pull Request, please ensure your suggestion meets the follow
 
 ### Quality & Relevance
 - **Islamic Focus:** The resource, project, or asset must be directly relevant to Islamic practice, education, research, or productivity.
-- **Open Source / Free:** Code projects should ideally be open-source or freely available community resources.
+- **Open Source / Free:** Code projects must be open-source. Assets must be free and openly licensed. We do not accept promotions for paid or closed-source products.
 - **Active & Maintained:** Avoid submitting abandoned projects, dead links, or incomplete repositories.
 
 ### Formatting Rules

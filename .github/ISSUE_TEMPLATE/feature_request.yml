@@ -1,0 +1,43 @@
+name: "Suggest a Feature / Improvement"
+description: "Suggest an idea for improving this repository (e.g., new category, structural changes, automation)."
+title: "feat: [Feature Summary]"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time to suggest an improvement for Awesome Muslims!"
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Is your feature request related to a problem?"
+      description: "A clear and concise description of what the problem or limitation is."
+      placeholder: "Describe the problem or gap you're noticing..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Describe the Solution You'd Like"
+      description: "A clear and concise description of what you want to happen."
+      placeholder: "Describe the proposed feature, automation, or structure improvement..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Describe Alternatives You've Considered"
+      description: "A clear and concise description of any alternative solutions or workarounds you've considered."
+      placeholder: "Any alternative approaches..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional Context"
+      description: "Add any other context, screenshots, or examples about the feature request here."
+    validations:
+      required: false

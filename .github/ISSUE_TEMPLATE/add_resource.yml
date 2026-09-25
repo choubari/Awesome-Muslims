@@ -1,0 +1,60 @@
+name: "Suggest a New Resource / Project"
+description: "Suggest a new Islamic open-source app, API, library, or asset to be added to the list."
+title: "add: [Resource Name]"
+labels: ["resource request"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for suggesting a new resource to Awesome Muslims! Please fill in the details below."
+
+  - type: input
+    id: name
+    attributes:
+      label: "Resource / Project Name"
+      placeholder: "e.g., Quranfi"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: "Repository or Source Link"
+      placeholder: "https://github.com/..."
+    validations:
+      required: true
+  - type: input
+    id: preview
+    attributes:
+      label: "Preview / Demo Link (optional)"
+      description: "Live demo, app store page, or screenshot — leave blank if none"
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category"
+      options:
+        - "Open Source Projects > Web Apps"
+        - "Open Source Projects > Mobile Apps"
+        - "Open Source Projects > Desktop Apps"
+        - "Open Source Projects > APIs & Data"
+        - "Open Source Projects > Libraries & Plugins"
+        - "Open Source Projects > Extensions"
+        - "Open Source Projects > Others"
+        - "Assets > Fonts"
+        - "Assets > Sound"
+        - "Assets > Files"
+        - "Assets > Graphic Design Resources"
+        - "Assets > Database"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      placeholder: "Provide a concise description of what this resource does."
+    validations:
+      required: true

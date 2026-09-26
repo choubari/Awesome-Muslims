@@ -70,6 +70,7 @@
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
 - [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) Calculates Sunnah, voluntary, and prohibited fasting days and times. [Preview](https://calendar.tayyiba.live/)
+- [Gold Calculator](https://github.com/up2gpt-commits/gold-calculator): Islamic Gold Calculator with live prices (USD/SAR/EGP), craftsmanship (المصنعية), zakat on gold, and 30-day price history charts. [Preview](https://adwatak.cloud/tools/gold-calculator)
 
 
 ## Mobile Apps

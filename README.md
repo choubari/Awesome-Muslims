@@ -43,14 +43,14 @@
   - [Graphic Design Resources](#graphic-design-resources)
   - [Database](#database) 
 - [Credits](#credits)
-  - [Contributors ✨](#contributors-)
+  - [Contributors âœ¨](#contributors-)
 
 # Open Source Projects
 
 ## Web Apps
 
 - [Quranfi](https://github.com/Quranfi-Project/quranfi-web): A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [Preview](https://www.quranfi.xyz/)
-- [Falah.io](https://github.com/abdessamadbettal/falah): An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
+- [Falah.io](https://github.com/abdessamadbettal/falah): An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri â†” Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
 - [Qafiyah](https://github.com/raaqimorg/qafiyah): The Arabic poetry reference, an open-source catalog of poems and poets. [Preview](https://qafiyah.com)
 - [Salat](https://github.com/kafiln/salati): Prayer times in Morocco by cities (According to The Ministry of Endowments and Islamic Affairs) [Preview](https://salat.vercel.app).
 - [Quran](https://github.com/quran/quran.com-frontend-v2): The official source code repository for [Quran.com](https://Quran.com)
@@ -63,6 +63,7 @@
 - [Pray Times](https://github.com/abodehq/Pray-Times): an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 - [Muslim Mate Website](https://github.com/fekracomputers/MuslimMateWebsite): A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)
 - [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
+- [Shahada](https://github.com/Shahada-org/shahada): Free open guide to saying the Shahada in 40+ languages with word-by-word audio. [Preview](https://shahada.org/en/)
 - [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
 - [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview](https://openadhan.web.app).
@@ -104,7 +105,7 @@
 - [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter): Quran made with Flutter for All platforms
 - [Alfanous](https://github.com/Alfanous-team/alfanous): an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces.
 - [quran_app](https://github.com/yunusefendi52/quran_app): Quran app built with Flutter
-- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qur’an - Hafs from Asim [Arabic Edition]
+- [Al-quran-Al-karim](https://github.com/HoussemTN/Al-quran-Al-karim): The Noble Qurâ€™an - Hafs from Asim [Arabic Edition]
 - [SimplyQibla](https://github.com/TowardsIkhlaas/simply_qibla): Minimalist, accurate, and privacy-focused qibla app.
 
 ### Swift
@@ -124,15 +125,15 @@
 
 ### Java
 
-- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time 💬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder ⏰.
+- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time ðŸ’¬, Calculating Muslim prayer times (for any location), and shows Morning and Nights Azkar with reminder â°.
 - [Salawat](https://github.com/DBChoco/Salawat): A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.
-- [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
+- [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application ðŸ’» for calculating Muslim prayer times ðŸ•Œ and setting an alarm (Adhan) â° for the prayer times.
 
 ### Javascript
 
 - [Muezzin](https://github.com/DBChoco/Muezzin): A prayer times and Adhan application for Windows, macOS and GNU/Linux.
 - [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application): An electron-based Azkar/prayer times application for Windows & Linux.
-- [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
+- [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ï·º) for windows & Linux
 
 ### C/C++ <a name="c-cpp"></a>
 
@@ -142,7 +143,7 @@
 
 ### Python
 
-- [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan 🕌 application for windows and linux that operates offline.
+- [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan ðŸ•Œ application for windows and linux that operates offline.
 - [Eeman](https://codeberg.org/SHuRiKeN/Eeman): An app that lets you track and get notified of your Salah timings, and read the beautiful Quran written in GTK 4 and Python for Linux.
 
 ## APIs & Data
@@ -151,7 +152,7 @@
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations
-- [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
+- [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, DuaÃ¢ and Rokia in database, .json and .cvs formats.
 - [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
 - [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json): A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on http://api.aladhan.com.
@@ -223,7 +224,7 @@
 - [Django Quran](https://github.com/idris/django-quran): Quranic models and helpers for use in Django projects
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
 - [IslamicCLI](https://github.com/IcyDrae/Islamic): a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.
-- [hijri](https://github.com/UtmostBoundary/hijri): a cal-like command-line tool for Hijri (Islamic) dates — month/year calendars, Gregorian↔Hijri conversion, and Islamic events (Umm al-Qura).
+- [hijri](https://github.com/UtmostBoundary/hijri): a cal-like command-line tool for Hijri (Islamic) dates â€” month/year calendars, Gregorianâ†”Hijri conversion, and Islamic events (Umm al-Qura).
 
 # Assets
 
@@ -262,8 +263,8 @@
 
 # Credits
 
-## Contributors ✨
+## Contributors âœ¨
 
-Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲
+Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran ðŸ¤²
 
 

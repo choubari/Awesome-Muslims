@@ -63,6 +63,7 @@
 - [Pray Times](https://github.com/abodehq/Pray-Times): an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 - [Muslim Mate Website](https://github.com/fekracomputers/MuslimMateWebsite): A website to display dashboard for information needed daily for Muslim (Prayer times, Hijri Calendar, Weather)
 - [Salat Vue](https://github.com/ELATTARIYassine/Salat-vue): Worldwide prayers times web application [Preview](https://salat-vue.netlify.app).
+- [Shahada](https://github.com/Shahada-org/shahada): Free open guide to saying the Shahada in 40+ languages with word-by-word audio. [Preview](https://shahada.org/en/)
 - [QuranIPFS](https://github.com/adelpro/quranipfs): Quran over IPFS streaming. [Preview](https://www.quranipfs.com).
 - [Check-hadith](https://github.com/adelpro/check-hadith): Quran over IPFS streaming web applicatiion PWA. [Preview](https://adelpro.github.io/check-hadith).
 - [Openadhan](https://github.com/adelpro/Openadhan): Web application made with Reactjs for calculating Muslim prayer times using local (auto) position or manual position calculated (with city search). [Preview](https://openadhan.web.app).

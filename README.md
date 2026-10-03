@@ -198,6 +198,7 @@
 ### Python
 
 - [Adhan Python](https://github.com/alphahm/adhanpy): High precision Islamic prayer time library for Python.
+- [al-falak](https://github.com/nexusnv/al-falak): offline Python library for prayer times, Qibla direction/distance, and Sunnah night markers (JAKIM preset, fully typed, zero dependencies).
 - [HijriDate](https://github.com/dralshehri/hijridate): a Python package to convert accurately between Hijri and Gregorian dates using the Umm al-Qura calendar.
 - [PyQuran](https://github.com/hci-lab/PyQuran): a Python package which provides tools for Quranic Analysis and Arabic texts.
 - [pyIslam](https://github.com/abougouffa/pyIslam) : a Python library to calculate prayer times, hijri date, qiblah direction and more

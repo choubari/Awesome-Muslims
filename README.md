@@ -218,6 +218,8 @@
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
 - [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
 - [Muslim Companion](https://github.com/CosmicCoder13/muslim-companion): A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh)
+- [Muslim Prayer Reminder](https://chatgpt.com/plugins/plugin_asdk_app_6a9bca660b2c8191a1146aa615cad6f5): An ad-free, privacy-first ChatGPT plugin and MCP tool for daily Islamic prayer times across 12 verified calculation authorities, with support for automated alerts via ChatGPT Scheduled Tasks. Available on the [ChatGPT Store](https://chatgpt.com/plugins/plugin_asdk_app_6a9bca660b2c8191a1146aa615cad6f5).
+
 
 ## Others
 

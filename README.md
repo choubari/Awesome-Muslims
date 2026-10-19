@@ -191,6 +191,7 @@
 ### Typescript
 
 - [Open-Mushaf](https://github.com/adelpro/open-mushaf): An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design.
+- [arabic-core](https://github.com/getkirnu/arabic-core): A zero-dependency TypeScript library for Umm al-Qura Hijri ↔ Gregorian date conversion, plus Arabic number-to-words and tashkeel removal. [Preview](https://getkirnu.com/ar/dates/hijri-to-gregorian/)
 
 ### C#
 

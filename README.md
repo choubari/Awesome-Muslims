@@ -154,6 +154,7 @@
 - [Quran API Multi](https://github.com/fawazahmed0/quran-api): Free Quran API Service with 90+ different languages and 400+ translations
 - [Azkar DB](https://github.com/osamayy/azkar-db): a dataset that contains Azkar, Duaâ and Rokia in database, .json and .cvs formats.
 - [Quran JSON](https://github.com/semarketir/quranjson): Quran JSON ~ 6236 verses, 114 surah, 30 Juz
+- [Muslim Names Dataset](https://github.com/moustaqim/muslim-names-dataset): Curated sample of 150 Muslim names (75M/75F) with Arabic script, FR/EN transliterations and FR/EN/AR meanings, drawn from a 2,400+ name verified database. CC BY-NC.
 - [Hadith JSON](https://github.com/A7med3bdulBaset/hadith-json): A database of the hadiths of the Prophet from 17 books, including the nine books and others.
 - [The AlAdhan API](https://github.com/islamic-network/api.aladhan.com): this repository powers the AlAdhan.com API on http://api.aladhan.com.
 - [Quran CSV](https://github.com/azvox/quran-csv/tree/master/resources)

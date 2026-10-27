@@ -25,6 +25,7 @@
     - [C/C++](#c-cpp)
     - [Python](#python)
   - [APIs & Data](#apis--data)
+  - [AI Tools](#ai-tools)
   - [Libraries & Plugins](#libraries--plugins)
     - [Java](#java-2)
     - [Kotlin](#kotlin-1)
@@ -163,6 +164,10 @@
 - [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 
+## AI Tools
+
+- [Muslim Prayer Reminder MCP](https://chatgpt.com/plugins/plugin_asdk_app_6a9bca660b2c8191a1146aa615cad6f5): Free, open-source MCP tool for calculated daily Muslim prayer times, regional calculation methods, and next-prayer countdowns. [Source and setup](https://github.com/tareq7/muslim-prayer-mcp).
+
 ## Libraries & Plugins
 
 ### Java
@@ -220,7 +225,6 @@
 - [Salati](https://github.com/slimaneakalie/salati): Muslims prayer time extension for Google Chrome.
 - [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
 - [Muslim Companion](https://github.com/CosmicCoder13/muslim-companion): A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh)
-- [Muslim Prayer Reminder MCP](https://chatgpt.com/plugins/plugin_asdk_app_6a9bca660b2c8191a1146aa615cad6f5): Free, open-source MCP tool for calculated daily Muslim prayer times, regional calculation methods, and next-prayer countdowns. [Source and setup](https://github.com/tareq7/muslim-prayer-mcp).
 
 
 ## Others

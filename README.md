@@ -149,6 +149,7 @@
 
 ## APIs & Data
 
+- [SalahTable Open Data](https://github.com/xucheng2024/salahtable-open-data): Reproducible 2027 prayer-time CSV data for 307 cities in seven countries, both Asr schools, and six-method comparisons; data CC BY 4.0, generation code MIT. [Preview](https://salahtable.com/open-data)
 - [Qafiyah](https://github.com/raaqimorg/qafiyah): Open-source Arabic poetry data with a free JSON API.
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API
 - [Quran API](https://github.com/sutanlab/quran-api): Simple Quran API with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy

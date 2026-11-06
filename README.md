@@ -167,6 +167,7 @@
 ## AI Tools
 
 - [Muslim Prayer Reminder MCP](https://chatgpt.com/plugins/plugin_asdk_app_6a9bca660b2c8191a1146aa615cad6f5): Free, open-source MCP tool for calculated daily Muslim prayer times, regional calculation methods, and next-prayer countdowns. [Source and setup](https://github.com/tareq7/muslim-prayer-mcp).
+- [Madeenan MCP Server and SDKs](https://github.com/itsmunzir/madeenan): MIT-licensed MCP server and TypeScript/Python clients for the Madeenan Quran and Hadith API, giving AI assistants Quran, Hadith, Tafsir and dua lookups with citation fields. Uses the hosted API, which has a free tier. [Preview](https://madeenan.com/quran-mcp-server)
 
 ## Libraries & Plugins
 

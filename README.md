@@ -72,6 +72,7 @@
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
 - [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) Calculates Sunnah, voluntary, and prohibited fasting days and times. [Preview](https://calendar.tayyiba.live/)
+- [Ilm-ul-Islam](https://ilmulislam.com) - Free interactive maps of Arabic grammar and the 762 most frequent Quran words, in English and Urdu.
 
 
 ## Mobile Apps

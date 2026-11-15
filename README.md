@@ -163,6 +163,7 @@
 - [Sunnah API](https://github.com/sunnah-com/api): The official API of sunnah.com for retrieving information about hadith collections.
 - [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
+- [Qibla & Prayer Measurements](https://github.com/mobtive/qibla-and-prayer-measurements): Qibla bearings for 16 cities by great circle, WGS-84 geodesic and rhumb line, and five prayer-time calculation methods compared across eight latitudes for every day of 2026, as CSV with the scripts that produce them. [Preview](https://qibladaily.com/qibla/how-it-is-calculated)
 
 ## AI Tools
 

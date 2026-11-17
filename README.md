@@ -50,6 +50,7 @@
 
 ## Web Apps
 
+- [Islam Museum](https://github.com/amado2k5/islam-museum): A free, open-source digital museum of Islamic history: a knowledge graph of people, places, events, concepts and texts with prose in Arabic, English and Urdu. [Preview](https://islam.museum)
 - [Quranfi](https://github.com/Quranfi-Project/quranfi-web): A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [Preview](https://www.quranfi.xyz/)
 - [Falah.io](https://github.com/abdessamadbettal/falah): An open-source, privacy-first Islamic toolkit built with Next.js, An all-in-one, zero-ad Islamic suite where all calculations happen locally in your browser. Includes Prayer Times & Adhan alerts, Hijri Smart Calendar, Ramadan Countdown, Hijri ↔ Gregorian Converter, Qibla & Mosque Finders, Al-Qur'an & Tafseer Explorer, 99 Names of Allah, Hisnul Muslim Duas, Zakat & Inheritance Calculators, a Hijri Age tracker, a Quran Card Maker, and an Arabic Date Stamp. [Preview](https://falah.io)
 - [Qafiyah](https://github.com/raaqimorg/qafiyah): The Arabic poetry reference, an open-source catalog of poems and poets. [Preview](https://qafiyah.com)
@@ -150,6 +151,7 @@
 
 ## APIs & Data
 
+- [Islam Museum API & Dataset](https://api.islam.museum/api/v1/): Free keyless JSON API and CC0 dataset for the Islam Museum knowledge graph, archived at Zenodo (DOI 10.5281/zenodo.23692511). [Preview](https://islam.museum).
 - [SalahTable Open Data](https://github.com/xucheng2024/salahtable-open-data): Reproducible 2027 prayer-time CSV data for 307 cities in seven countries, both Asr schools, and six-method comparisons; data CC BY 4.0, generation code MIT. [Preview](https://salahtable.com/open-data)
 - [Qafiyah](https://github.com/raaqimorg/qafiyah): Open-source Arabic poetry data with a free JSON API.
 - [Quran.com API](https://github.com/quran/quran.com-api): Source code of Quran.com's API

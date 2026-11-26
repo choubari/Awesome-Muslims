@@ -35,6 +35,7 @@
     - [C#](#c)
     - [Python](#python-1)
     - [Dart & Flutter](#dart--flutter)
+    - [Php](#php)
   - [Extensions](#extensions)
   - [Others](#others)
 - [Assets](#assets)
@@ -219,6 +220,10 @@
 - [Flutter Qiblah](https://github.com/medyas/flutter_qiblah) : a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.
 - [Adhan Dart / Flutter](https://github.com/iamriajul/adhan-dart) : Adhan Dart is a well tested and well documented library for calculating Islamic prayer times.
 
+### Php
+
+- [Hijri Moon AR (Joomla)](https://github.com/arabskypedia2/mod-hijri-moon-ar): a Joomla 5 site module that displays the civil Hijri date and approximate moon phase in Arabic, with Arabic and English language files and RTL layout.
+
 ## Extensions
 
 - [QuranLens](https://github.com/nanfaweb/QuranLens): A Chrome extension that identifies the Surah and Ayah being recited in a YouTube video by matching its Arabic captions against the Quran entirely on-device. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/jigacmpijeacfjocnodgjliikbldgdem).
@@ -277,5 +282,4 @@
 ## Contributors ✨
 
 Thanks goes to these wonderful [people](https://github.com/choubari/Awesome-Muslims/graphs/contributors), Jazakoum Allahou Khayran 🤲
-
 

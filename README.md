@@ -72,6 +72,7 @@
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
 - [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) Calculates Sunnah, voluntary, and prohibited fasting days and times. [Preview](https://calendar.tayyiba.live/)
+- [Salah Launcher](https://github.com/abdok30303-coder/apl-plus-musalla): A free, open-source Arabic-first home screen launcher for Samsung Smart TVs (Tizen 6.5+, 2022 and newer): on-device prayer times that work offline, a full offline Mushaf with tafsir, Hijri date, and Quran radio. [Preview](https://abdok30303-coder.github.io/apl-plus-musalla/)
 
 
 ## Mobile Apps

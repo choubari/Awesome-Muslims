@@ -58,6 +58,7 @@
 - [Quran Multi](https://github.com/fawazahmed0/quran): Read Quran in 90+ Languages. [Preview](https://fawazahmed0.github.io/quran)
 - [Quranaho](https://github.com/adibemohamed/quranaho): Open Source Quran
 - [Quran Reader](https://github.com/mohdovais/quran): Quran Reader in Arabic.
+- [Sambung Ayat](https://github.com/afdaliable/sambungayat): A free Quran memorization quiz with six quiz modes, 12 interface languages, offline PWA and an Android app, with no accounts and no ads. [Preview](https://sambungayat.com)
 - [Time For Salah Website](https://github.com/AbdulMalikDev/TimeForSalahWebsite): A Muslim Prayer Timing Website build with pure JavaScript.
 - [QuranicAudio](https://github.com/quran/audio.quran.com): The official Repository of https://quranicaudio.com/
 - [Hijri JS](https://github.com/xsoh/Hijri.js): A Hijri converter with Javasript
